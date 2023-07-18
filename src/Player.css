@@ -1,0 +1,11 @@
+.player {
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 24px;
+  }
+  
+  .player-video {
+    width: 100%;
+    height: auto;
+  }
+  
